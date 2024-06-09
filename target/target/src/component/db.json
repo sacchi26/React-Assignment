@@ -1,0 +1,76 @@
+{
+    "categories":[
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_0962aa1b-3452-4ad3-8e3f-9848a12a7042?wid=315&hei=315&qlt=60&fmt=webp",
+             "lable":"PRIDE"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_e83e5338-5083-4da9-b4c1-e19cb98bc9cb?wid=315&hei=315&qlt=60&fmt=webp",
+             "lable":"Collage"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_e43414df-a830-4ce0-8a77-b966bda3b85c?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Back to School"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_69a7efb3-d301-4269-bf1e-847efc37dc35?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Women's"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_9364d67e-f5c9-48fa-9cb4-95b2dd6d4a82?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Men's"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_9330b82e-4431-4a50-9c0d-8f58444e94db?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Kids"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_ac803e04-bcbf-452a-b6a4-03aab0ae3062?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Baby"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/Furniture-210913-1631566212856?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Home"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/PatioGarden-210913-1631564082284?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Patio & Garden"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/KitchenDining-210913-1631564122569?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Kitchen & Dinning"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/Sept_Wk5-0930-Video_Games-Nintendo-CB-Consoles143381-180910_1536591280324?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Video Games"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_b330e18b-ca79-4f68-8fa8-659e0e8df199?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Apple"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/GUEST_60105183-0be5-4b97-ac4b-37152d59fc97?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Toys"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/Sports_Outdoors219475-200305_1583425943604?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Sports & Outdoors"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/Grocery219475-200305_1583423555572?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Grocery"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/Beauty181103-190722_1563828945271?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Beauty"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/HouseholdEssentials_Tide-200519-1589915606672?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Households &  Essentials"
+        },
+        {
+            "src":"https://target.scene7.com/is/image/Target/clearance97188-171020_1508525411214?wid=315&hei=315&qlt=60&fmt=webp",
+            "lable":"Clearance"
+        }
+    ]
+}
